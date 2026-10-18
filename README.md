@@ -41,11 +41,10 @@ no template, no shortcuts.</i>
 
 <div align="center">
 
-<sub>DESIGN&nbsp;&nbsp;</sub> ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-000000?style=flat-square&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white)
-
-<br>
-
-<sub>ENGINEERING&nbsp;&nbsp;</sub> ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+<table border="0">
+<tr><td align="right"><sub>DESIGN</sub></td><td align="left">&nbsp;&nbsp;![Photoshop](https://img.shields.io/badge/PHOTOSHOP-000000?style=flat-square&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white)</td></tr>
+<tr><td align="right"><sub>ENGINEERING</sub></td><td align="left">&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white)</td></tr>
+</table>
 
 </div>
 
