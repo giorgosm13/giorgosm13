@@ -42,14 +42,12 @@ no template, no shortcuts.</i>
 <div align="center">
 
 <sub>DESIGN</sub>
-<br>
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-000000?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white)
 
 <br>
 
 <sub>ENGINEERING</sub>
-<br>
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white)
