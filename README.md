@@ -16,6 +16,10 @@
 
 <br>
 
+<div align="center"><sub>01&nbsp;&nbsp;/&nbsp;&nbsp;ABOUT</sub></div>
+
+<br>
+
 <p align="center">
 <i>I'm a full-stack and software engineer and graphic designer who moves comfortably<br>
 between the two — sketching an interface and then wiring up the system that powers it.<br>
@@ -35,13 +39,18 @@ no template, no shortcuts.</i>
 
 <br>
 
+<div align="center"><sub>02&nbsp;&nbsp;/&nbsp;&nbsp;STACK</sub></div>
+
+<br>
+
 <div align="center">
 
 <sub>DESIGN</sub>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=ps,figma&theme=dark" />
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-000000?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white)
 
 <br><br>
 
@@ -49,7 +58,10 @@ no template, no shortcuts.</i>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -59,15 +71,15 @@ no template, no shortcuts.</i>
 
 <br>
 
+<div align="center"><sub>03&nbsp;&nbsp;/&nbsp;&nbsp;STATUS</sub></div>
+
+<br>
+
 <div align="center">
-
-<sub>STATUS</sub>
-
-<br><br>
 
 ![Status](https://img.shields.io/badge/OPEN_FOR_PROJECTS-000000?style=flat-square&labelColor=000000)
 
-<br>
+<br><br>
 
 Full builds, design work, or both.
 
@@ -79,15 +91,20 @@ Full builds, design work, or both.
 
 <br>
 
+<div align="center"><sub>04&nbsp;&nbsp;/&nbsp;&nbsp;CONNECT</sub></div>
+
+<br>
+
 <div align="center">
 
-<sub>CONNECT</sub>
-
-<br><br>
-
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/giorgosm13)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1283022266485051455)
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=2&section=header" width="100%"/>
 
 <br>
 
