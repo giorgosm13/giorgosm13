@@ -1,7 +1,5 @@
 <div align="center">
 
-<sub>GITHUB&nbsp;&nbsp;·&nbsp;&nbsp;PORTFOLIO</sub>
-
 # GIORGOS
 
 <sub>FULL-STACK ENGINEER&nbsp;&nbsp;—&nbsp;&nbsp;GRAPHIC DESIGNER</sub>
